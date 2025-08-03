@@ -1,7 +1,7 @@
 # Pamela Rodrigues (draedpunk)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PamelaRodrigues-blue?logo=linkedin)](https://www.linkedin.com/in/rodrigues-pamela)
-[![Site Pessoal](https://img.shields.io/badge/Site-PastelEcho-9b59b6?style=for-the-badge)](https://pastel-echo.vercel.app/)
+[![Site Pessoal](https://img.shields.io/badge/Site-PastelEcho-9b59b6?style=flat-square)](https://pastel-echo.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-draedpunk-black?logo=github)](https://github.com/draedpunk)
 [![Estilo de Vida Dev](https://img.shields.io/badge/Dev_Lifestyle-Night%20Coder-ff69b4)]()
 [![Cibersegurança](https://img.shields.io/badge/Foco-Cybersec-critical)]()
