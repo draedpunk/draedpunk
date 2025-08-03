@@ -1,16 +1,27 @@
-## Hi there 👋
+# Pamela Rodrigues (draedpunk)
 
-<!--
-**draedpunk/draedpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PamelaRodrigues-blue?logo=linkedin)](https://www.linkedin.com/in/rodrigues-pamela)
+[![GitHub](https://img.shields.io/badge/GitHub-draedpunk-black?logo=github)](https://github.com/draedpunk)
+[![Estilo de Vida Dev](https://img.shields.io/badge/Dev_Lifestyle-Night%20Coder-ff69b4)]()
+[![Cibersegurança](https://img.shields.io/badge/Foco-Cybersec-critical)]()
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de **Análise e Desenvolvimento de Sistemas**  
+- Interesse em **Cibersegurança** e em **Perícia Digital**  
+- Viciada em roxo, true crime e filmes de terror/suspense
+
+---
+
+![Pamela's GitHub stats](https://github-readme-stats.vercel.app/api?username=draedpunk&show_icons=true&theme=tokyonight)
+
+# Linguagens
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
