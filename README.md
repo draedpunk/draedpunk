@@ -1,7 +1,6 @@
 <!-- Banner/Header -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29e2b8c4-1fc3-48fb-b7c5-6ec5a6c97a69" />
-" alt="Banner - Pamela Rodrigues" width="100%" />
+  <img src="https://github.com/user-attachments/assets/29e2b8c4-1fc3-48fb-b7c5-6ec5a6c97a69" width="100%" height="250px" />
 </p>
 
 # Pamela Rodrigues (draedpunk)
@@ -22,8 +21,8 @@
 
 <!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=draedpunk&show_icons=true&theme=tokyonight" alt="Pamela's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draedpunk&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=draedpunk&show_icons=true&theme=tokyonight&card_width=420" alt="Pamela's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draedpunk&layout=compact&theme=tokyonight&card_width=420" alt="Top Langs" />
 </p>
 
 # Linguagens
