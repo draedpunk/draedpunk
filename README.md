@@ -1,3 +1,9 @@
+<!-- Banner/Header -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29e2b8c4-1fc3-48fb-b7c5-6ec5a6c97a69" />
+" alt="Banner - Pamela Rodrigues" width="100%" />
+</p>
+
 # Pamela Rodrigues (draedpunk)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PamelaRodrigues-blue?logo=linkedin)](https://www.linkedin.com/in/rodrigues-pamela)
@@ -10,11 +16,15 @@
 
 - Estudante de **Análise e Desenvolvimento de Sistemas**  
 - Interesse em **Cibersegurança** e em **Perícia Digital**  
-- Viciada em roxo, true crime e filmes de terror/suspense
+- Sou feita de roxo, documentários de true crime e filmes de terror/suspense  
 
 ---
 
-![Pamela's GitHub stats](https://github-readme-stats.vercel.app/api?username=draedpunk&show_icons=true&theme=tokyonight)
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=draedpunk&show_icons=true&theme=tokyonight" alt="Pamela's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draedpunk&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 # Linguagens
 
