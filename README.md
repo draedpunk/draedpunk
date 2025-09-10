@@ -19,11 +19,7 @@
 
 ---
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=draedpunk&show_icons=true&theme=tokyonight&card_width=420" alt="Pamela's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draedpunk&layout=compact&theme=tokyonight&card_width=420" alt="Top Langs" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=draedpunk&show_icons=true&theme=tokyonight" alt="Pamela's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draedpunk&layout=compact&theme=tokyonight" alt="Top Langs" /> </p>
 
 # Linguagens
 
